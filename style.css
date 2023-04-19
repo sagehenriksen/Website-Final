@@ -1,0 +1,49 @@
+*{
+    background-image: linear-gradient(to right, #FFCC00, #FF6600);
+  }
+  
+  /* The element to apply the animation to */
+  
+  
+  h1{
+    color: purple;
+    text-shadow: 2px 2px 5px white;
+    text-align: center;
+  }
+  
+  body{
+    height: 1000px;
+    width: 1000px;
+    text-align: justify;
+    font-family: "Lucida Console", monospace;
+  }
+  
+   div {
+    width: 900px;
+    border: 3.1px solid purple;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 25px;
+  }
+  
+  .box{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid black;
+    background-color: red;
+  }
+  
+   img {
+    margin: auto;
+    border-radius: 25px;
+    width: 50%;
+    border: 3px solid purple;
+    padding: 30px;
+    float: right;
+  
+  } 
+  
+  
+  
